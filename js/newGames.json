@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Star Wars: Outlaws",
+    "description": "Explore the Outer Rim in this open-world adventure.",
+    "image": "images\\Star Wars Outlaws.jpg"
+  },
+  {
+    "title": "Final Fantasy VII: Rebirth",
+    "description": "The next chapter of a legend begins.",
+    "image": "images\\Final Fantasy.jpg"
+  },
+  {
+    "title": "Spider-Man 2",
+    "description": "Tag-team action with Peter and Miles.",
+    "image": "images\\Spider Man.jpg"
+  },
+  {
+    "title": "InZOI",
+    "description": "Players step into the role of creators, shaping the world as they envision and witnessing the various stories that unfold.",
+    "image": "images\\InZOI.jpg"
+  },
+  {
+    "title": "Monster Hunter: Wilds",
+    "description": "A wild and unrelenting new frontier. Dynamic, ever-changing environments. A story of monsters and humans in a world with two faces",
+    "image": "images\\Monster Hunter.jpg"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Boost Your Gaming!",
+    "message": "Need more FPS? Download FREE RAM now!",
+    "image": "images\\download Ram.jpg",
+    "link": "https://downloadmoreram.com/",
+    "buttonText": "Download RAM"
+  },
+  {
+    "title": "Win a Free PS5!",
+    "message": "Sign up for free games to win BIG!",
+    "image": "images\\free games.png",
+    "link": "",
+    "buttonText": "Enter Contest"
+  },
+  {
+    "title": "Upgrade Your Setup!",
+    "message": "Get Games for free here!",
+    "image": "images\\free Stuff.jpeg",
+    "link": "",
+    "buttonText": "Shop Now"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Spider-Man 2",
+    "price": "$10.99",
+    "description": "Spider-Men Peter Parker and Miles Morales face the ultimate test of strength inside and outside the mask as they fight to save the city, each other and the ones they love, from the monstrous Venom and the dangerous new symbiote threat",
+    "image": "images\\Spider Man.jpg"
+  },
+  {
+    "name": "Elden Ring",
+    "price": "$14.79",
+    "description": "Venture into a massive fantasy world crafted by Hidetaka Miyazaki and George R. R. Martin.",
+    "image": "images\\Eldin Ring"
+  },
+  {
+    "name": "Assassin's Creed: Valhalla",
+    "price": "$7.99",
+    "description": "Become Eivor, a legendary Viking warrior on a quest for glory. Explore England’s Dark Ages as you raid your enemies, grow your settlement, and build your political power",
+    "image": "images\\Assassins Creed.jpg"
+  },
+  {
+    "name": "The Last of Us Remastered",
+    "price": "$5.99",
+    "description": "Survive the post-apocalyptic world in this emotional narrative-driven game.",
+    "image": "images\\Last of Us.jpg"
+  },
+  {
+    "name": "Celeste",
+    "price": "$2.99",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain.",
+    "image": "images\\Celeste.jpg"
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "price": "$7.59",
+    "description": " Embark on a journey through familiar and new locations as you explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be.",
+    "image": "images\\Hogwarts Legacy.jpg"
+  },
+  {
+    "name": "Spit Fiction",
+    "price": "$18.78",
+    "description": "Embrace mind-blowing moments as you’re pulled deep into the many worlds of Split Fiction, a boundary-pushing co-op action adventure.",
+    "image": "images\\Split Fiction.jpg"
+  },
+  {
+    "name": "Kingdom Come",
+    "price": "$18.78",
+    "description": "Live the tale of Henry of Skalitz, who’s on his journey to avenge his murdered parents, taking him from aspiring warrior to rebel, and on an unforgettable set of adventures.",
+    "image": "images\\Kingdom Come Deliverance.jpg"
+  },
+  {
+    "name": "Monster Hunter: Wilds",
+    "price": "$20.08",
+    "description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+    "image": "images\\Monster Hunter.jpg"
+  },
+  {
+    "name": "Final Fantasy VII: Rebirth",
+    "price": "$15.99",
+    "description": "The Unknown Journey Continues... After escaping from the dystopian city of Midgar, Cloud and his friends set out on a journey across the planet.",
+    "image": "images\\Final Fantasy.jpg"
+  },
+  {
+    "name": "InZOI",
+    "price": "$25.99",
+    "description": "Create your unique story by controlling and observing the lives of 'Zois'. Customize characters and build houses using inZOI's easy-to-use tools to live the life of your dreams and experience the different emotions of life created by its deep and detailed simulation.",
+    "image": "images\\InZOI.jpg"
+  },
+  {
+    "name": "Final Fantasy VII: Rebirth",
+    "price": "$15.99",
+    "description": "The Unknown Journey Continues... After escaping from the dystopian city of Midgar, Cloud and his friends set out on a journey across the planet.",
+    "image": "images\\Final Fantasy.jpg"
+  }
+]
